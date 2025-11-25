@@ -304,7 +304,7 @@ Given more time and resources, I would:
 Data Analyst | Law & Human Rights Background
 
 - **LinkedIn:** [https://www.linkedin.com/in/buhle-damane/](https://www.linkedin.com/in/buhle-damane/)
-- **GitHub:** [Add your GitHub profile link here]
+- **GitHub:** [[Add your GitHub profile link here]](https://github.com/BuhleDamane/GENDER-INEQUALITY-INDEX-ANALYSIS).
 - **Email:** ziziphodamane@gmail.com
 - **Portfolio:** [Add your portfolio link here]
 
